@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9fb;
+    color: #333;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #1a73e8;
+    color: #fff;
+    padding: 30px 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  main {
+    padding: 30px 20px;
+  }
+  
+  .states-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 15px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .states-grid a {
+    display: block;
+    background-color: #fff;
+    color: #1a73e8;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .states-grid a:hover {
+    background-color: #1a73e8;
+    color: #fff;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9rem;
+    background-color: #e9e9ef;
+    color: #555;
+  }
+  

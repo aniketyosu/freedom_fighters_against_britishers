@@ -35,4 +35,11 @@ body {
   .fighter p {
     line-height: 1.6;
   }
+
+  footer {
+    background-color: #e75480;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
   

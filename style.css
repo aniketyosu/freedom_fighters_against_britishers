@@ -50,13 +50,13 @@ body {
   .states-grid a:hover {
     background-color: #1a73e8;
     color: #fff;
-  }
-  
+  } 
+
+
   footer {
+    background-color: #1a73e8;
+    color: white;
     text-align: center;
-    padding: 20px;
-    font-size: 0.9rem;
-    background-color: #e9e9ef;
-    color: #555;
+    padding: 10px;
   }
   

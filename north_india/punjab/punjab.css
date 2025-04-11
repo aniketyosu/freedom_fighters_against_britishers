@@ -8,7 +8,7 @@
   }
   
   header {
-    background-color: #FF9933;
+    background-color: #FFD700;
     color: white;
     padding: 20px;
     text-align: center;
@@ -29,16 +29,18 @@
   }
   
   .fighter h2 {
-    color: #FF9933;
+    color: 	#FFD700;
   }
   
   .fighter p {
     line-height: 1.6;
   }
-  
+
   footer {
-    background-color: #FF9933;
+    background-color: #FFD700	;
     color: white;
     text-align: center;
     padding: 10px;
   }
+  
+  

@@ -8,13 +8,13 @@
   }
   
   header {
-    background-color: #FF9933;
+    background-color: #800000;
     color: white;
     padding: 20px;
     text-align: center;
   }
   
-  .container {
+  main {
     padding: 20px;
     /* max-width: 900px; */
     margin: auto;
@@ -29,16 +29,26 @@
   }
   
   .fighter h2 {
-    color: #FF9933;
+    color: 	#800000;
   }
   
   .fighter p {
     line-height: 1.6;
   }
   
+  
+  .fighter img {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 5px;
+  }
+  
+
   footer {
-    background-color: #FF9933;
+    background-color: #800000;
     color: white;
     text-align: center;
     padding: 10px;
   }
+  

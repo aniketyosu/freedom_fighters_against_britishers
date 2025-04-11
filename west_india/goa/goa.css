@@ -36,3 +36,9 @@
     line-height: 1.6;
   }
   
+  footer {
+    background-color: #00CED1;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }

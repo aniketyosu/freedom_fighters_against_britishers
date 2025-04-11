@@ -43,5 +43,12 @@ main {
   border-radius: 50%; /* optional: makes it circular */
 }
 
+footer {
+  background-color: #FFD700;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
 
  

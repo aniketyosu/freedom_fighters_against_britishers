@@ -7,8 +7,10 @@ body {
   }
   
   .container {
+    padding: 20px;
     /* max-width: 900px; */
     margin: auto;
+  
   }
   
   h1 {
@@ -31,7 +33,7 @@ body {
   }
   
   .fighter h2 {
-    color: #1a73e8;
+    color: #FFD700;
     margin-top: 0;
   }
   
@@ -52,3 +54,12 @@ body {
     object-fit: cover;
     border-radius: 50%; /* optional: makes it circular */
   }
+
+  header{
+    background-color: #FFD700;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+ 

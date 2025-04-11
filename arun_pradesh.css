@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #FF9933;
+  background-color: #228B22;
   color: white;
   padding: 20px;
   text-align: center;
@@ -29,7 +29,7 @@ main {
 }
 
 .fighter h2 {
-  color: #FF9933;
+  color: #228B22;
 }
 
 .fighter p {

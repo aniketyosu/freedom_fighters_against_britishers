@@ -1,65 +1,47 @@
+/* styles.css */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f6f8;
-    margin: 0;
-    padding: 20px;
-    color: #333;
-  }
-  
-  .container {
-    padding: 20px;
-    /* max-width: 900px; */
-    margin: auto;
-  
-  }
-  
-  h1 {
-    text-align: center;
-    color: #2c3e50;
-    margin-bottom: 30px;
-  }
-  
-  .fighter {
-    background-color: #fff;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-    padding: 20px;
-    margin-bottom: 20px;
-    transition: transform 0.2s;
-  }
-  
-  .fighter:hover {
-    transform: scale(1.01);
-  }
-  
-  .fighter h2 {
-    color: #FFD700;
-    margin-top: 0;
-  }
-  
-  .fighter p {
-    line-height: 1.6;
-  }
-  
-  @media (max-width: 600px) {
-    body {
-      padding: 10px;
-    }
-  }
-  
-  
-.image {
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    border-radius: 50%; /* optional: makes it circular */
-  }
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
 
-  header{
-    background-color: #FFD700;
-    color: white;
-    padding: 20px;
-    text-align: center;
-  }
+header {
+  background-color: #FF9933;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  /* max-width: 900px; */
+  margin: auto;
+}
+
+.fighter {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.fighter h2 {
+  color: #FF9933;
+}
+
+.fighter p {
+  line-height: 1.6;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%; /* optional: makes it circular */
+}
+
 
  

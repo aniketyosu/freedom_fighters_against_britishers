@@ -1,0 +1,54 @@
+/* Reset some basic styles */
+* body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  header {
+    background-color: #4B0082;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+    /* max-width: 900px; */
+    margin: auto;
+  }
+  
+  .fighter {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .fighter h2 {
+    color: 	#4B0082;
+  }
+  
+  .fighter p {
+    line-height: 1.6;
+  }
+  
+  
+  .fighter img {
+    width: 150px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 5px;
+  }
+  
+
+  footer {
+    background-color: #4B0082;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
